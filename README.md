@@ -1,0 +1,2 @@
+# Unlox_Minor_project_1
+🧬 WhatsApp GroupDNA Analyzer  A Python-based WhatsApp chat analytics project that analyzes group conversations to uncover participant activity, message contributions, response patterns, popular words, silent streaks, and communication behavior.  🛠️ Tech: Python, NumPy, Text Processing   📊 Goal: Turn raw WhatsApp chat data into meaningful and visual insights.  «💬 Every message leaves a trace. GroupDNA reveals the story!»
